@@ -21,5 +21,9 @@ Directions:
     boiling water (batter will be thin). Pour batter into prepared pans.
  
  3. Bake 30 to 35 minutes or until a toothpick inserted in the center comes out
+<<<<<<< HEAD
     clean. Cool completely. Jpapes bla
+=======
+    clean. Cool completely. Jonathan
+>>>>>>> refs/remotes/origin/master
 
